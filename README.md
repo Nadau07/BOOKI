@@ -1,4 +1,4 @@
-Projet n° Site BOOKI . Formation "Intégrateur Web" , organisme OpenClassRoom.
+Projet n°3 Site BOOKI . Formation "Intégrateur Web" , organisme OpenClassRoom.
 
 
 Scénario : 
